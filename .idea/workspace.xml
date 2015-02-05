@@ -28,48 +28,8 @@
       <file leaf-file-name="layout.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/layouts/layout.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="270" max-vertical-offset="360">
-              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rakefile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Rakefile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
-              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.ru" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config.ru">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.01992032" vertical-offset="0" max-vertical-offset="753">
-              <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="417" max-vertical-offset="1170">
-              <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="360">
+              <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -85,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-23.208334" vertical-offset="208" max-vertical-offset="960">
-              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.46587536" vertical-offset="316" max-vertical-offset="990">
+              <caret line="42" column="89" selection-start-line="42" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -98,8 +58,8 @@
       <file leaf-file-name="all.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="98932" max-vertical-offset="103140">
-              <caret line="190" column="2" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="103380">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -115,16 +75,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="background.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/images/background.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/source/stylesheets/all.css" />
-        <option value="$PROJECT_DIR$/source/index.html.erb" />
         <option value="$PROJECT_DIR$/Rakefile" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config.ru" />
+        <option value="$PROJECT_DIR$/source/layouts/layout.erb" />
+        <option value="$PROJECT_DIR$/source/stylesheets/all.css" />
+        <option value="$PROJECT_DIR$/source/index.html.erb" />
       </list>
     </option>
   </component>
@@ -166,72 +134,6 @@
               <option name="myItemId" value="project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rack-contrib (v1.2.0, RVM: ruby-2.1.5) [gem]" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rack-contrib (v1.2.0, RVM: ruby-2.1.5) [gem]" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contrib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bundler (v1.7.11, RVM: ruby-2.1.5) [gem]" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -257,6 +159,78 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thoughtsinthewind" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thoughtsinthewind" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thoughtsinthewind" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thoughtsinthewind" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -264,7 +238,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
     <property name="FullScreen" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -473,11 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/background.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/javascripts/all.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
@@ -486,58 +455,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/layouts/layout.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="360">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="98932" max-vertical-offset="103140">
-          <caret line="190" column="2" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/stylesheets/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="5700">
           <caret line="35" column="58" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.208334" vertical-offset="208" max-vertical-offset="960">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="417" max-vertical-offset="1170">
-          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rakefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -552,8 +473,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.ru">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.01992032" vertical-offset="0" max-vertical-offset="753">
-          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.23904383" vertical-offset="0" max-vertical-offset="753">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07968128" vertical-offset="0" max-vertical-offset="753">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2988048" vertical-offset="0" max-vertical-offset="753">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22310758" vertical-offset="417" max-vertical-offset="1170">
+          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/images/background.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="103380">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/layouts/layout.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="360">
+          <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46587536" vertical-offset="316" max-vertical-offset="990">
+          <caret line="42" column="89" selection-start-line="42" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
         </state>
       </provider>
