@@ -1,5 +1,5 @@
 require 'rack'
-require 'rack/contrib/try_static'
+require 'rack/contrib/try_static.rb'
 
 # Serve files from the build directory
 use Rack::TryStatic,
