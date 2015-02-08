@@ -1,0 +1,19 @@
+body {
+  background: url("../images/background.png");
+}
+.cover {
+
+  height: 40em;
+  padding-top: 9em;
+  margin-bottom: 2em;
+  background-image: url("../images/cover.jpg");
+  background-size: cover;
+  color: #000000;
+  font-size: 20px;
+  text-align: right;
+
+
+  h1 {
+    font-size: 400%;
+  }
+}
